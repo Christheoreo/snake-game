@@ -1,4 +1,4 @@
-# P5 - Vanilla JS + P5 template
+# P5 - Snake game
 
 ## How to use
 
