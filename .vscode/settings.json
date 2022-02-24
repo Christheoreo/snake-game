@@ -1,0 +1,7 @@
+{
+	"editor.guides.indentation": true,
+	"editor.detectIndentation": false,
+	"editor.guides.highlightActiveIndentation": true,
+	"editor.autoIndent": "full",
+	"editor.formatOnSave": true
+}
